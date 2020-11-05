@@ -1,0 +1,8 @@
+{
+  "username": "USER",
+  "password": "PASSWORD",
+  "domain": {
+    "domain_type": "DOMAINTYPE",
+    "value": "DOMAINVALUE"
+  }
+}
