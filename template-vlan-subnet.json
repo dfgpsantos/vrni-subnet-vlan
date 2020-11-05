@@ -1,0 +1,4 @@
+{
+  "cidr": "SUBNET1.SUBNET2.SUBNET3.SUBNET4/SUBNET5",
+  "vlan_id": VLANID
+}
